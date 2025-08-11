@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Luxury Apartment in Abuja</title>
+  <style>
+    body { font-family: Arial, sans-serif; margin: 0; padding: 0; line-height: 1.6; background: #f9f9f9; }
+    header, section { padding: 20px; }
+    .hero { background: url('your-main-image.jpg') center/cover no-repeat; color: white; text-align: center; padding: 100px 20px; }
+    .hero h1 { font-size: 2.5em; margin-bottom: 10px; }
+    .btn { display: inline-block; padding: 10px 20px; background: #ff5a5f; color: white; text-decoration: none; border-radius: 5px; }
+    .highlights ul { list-style: none; padding: 0; }
+    .highlights li { background: #fff; margin: 10px 0; padding: 10px; border-left: 5px solid #ff5a5f; }
+    .gallery .images { display: flex; flex-wrap: wrap; gap: 10px; }
+    .gallery img { width: 48%; border-radius: 8px; }
+    .reviews blockquote { background: #fff; padding: 15px; margin: 10px 0; border-left: 5px solid #ff5a5f; }
+    iframe { border: none; border-radius: 8px; }
+    footer { background: #333; color: white; text-align: center; padding: 20px; }
+  </style>
+</head>
+<body>
+
+  <header class="hero">
+    <h1>Modern Comfort in the Heart of Abuja</h1>
+    <p>Book your stay at our stylish, fully-furnished apartment with all the amenities you need.</p>
+    <a href="https://www.airbnb.com/rooms/1428345733525431111" class="btn">Book on Airbnb</a>
+  </header>
+
+  <section class="highlights">
+    <h2>What You'll Love</h2>
+    <ul>
+      <li>🛏️ 2 Spacious Bedrooms</li>
+      <li>🛁 2 Modern Bathrooms</li>
+      <li>🍳 Fully Equipped Kitchen</li>
+      <li>📺 Smart TV & High-Speed Wi-Fi</li>
+      <li>❄️ Air Conditioning</li>
+      <li>🚗 Free Parking</li>
+      <li>🧼 Weekly Cleaning Service</li>
+    </ul>
+  </section>
+
+  <section class="gallery">
+    <h2>Gallery</h2>
+    <div class="images">
+      <img src="living-room.jpg" alt="Living Room">
+      <img src="bedroom.jpg" alt="Bedroom">
+      <img src="kitchen.jpg" alt="Kitchen">
+      <img src="bathroom.jpg" alt="Bathroom">
+    </div>
+  </section>
+
+  <section class="booking">
+    <h2>Availability & Booking</h2>
+    <p>Check availability and book directly through Airbnb.</p>
+    <a href="https://www.airbnb.com/rooms/1428345733525431111" class="btn">Check Dates</a>
+  </section>
+
+  <section class="reviews">
+    <h2>What Guests Are Saying</h2>
+    <blockquote>
+      “Absolutely loved the apartment! Clean, stylish, and close to everything.” – Ada, Lagos
+    </blockquote>
+    <blockquote>
+      “Great host, smooth check-in, and a peaceful stay.” – Tunde, Abuja
+    </blockquote>
+  </section>
+
+  <section class="contact">
+    <h2>Find Us</h2>
+    <p>Located in [Your Neighborhood], Abuja, Nigeria</p>
+    <iframe src="https://maps.google.com/maps?q=Abuja,+Nigeria&output=embed" width="100%" height="300"></iframe>
+    <p>📞 Call or WhatsApp: +234-XXX-XXX-XXXX</p>
+  </section>
+
+  <footer>
+    <p>&copy; 2025 Your Apartment Name. All rights reserved.</p>
+  </footer>
+
+</body>
+</html>
